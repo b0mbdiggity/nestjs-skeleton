@@ -1,7 +1,7 @@
 {
   "name": "nestjs-skeleton",
   "version": "0.0.1",
-  "description": "Salt Fishing API Server",
+  "description": "NejstJS API Server Skeleton",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
